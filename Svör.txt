@@ -1,0 +1,6 @@
+Fyrir Hvað Stendur namespace í python?
+Namespace í python er útfærð sem heldur útan um Python orðabækur, þetta þýðir að það er kortlagning frá names(keys) til objects(values)
+Hvað er module í python?")
+Python Module er einfaldlega Python source skrá, sem getur flett up Classes,functions og global variables
+hvað er átt við hulun(scope)?
+Hulun er notuð til að hafa nokkur gildi af sama hlut, en það breytist ekki fyrir öll functions. nema í því functioni sem að breyting er gerð hjá.
